@@ -8,7 +8,7 @@ public class testscript : MonoBehaviour
     void Start()
     {
         print("Testing");
-        print("something else");
+        print("something e lse");
     }
 
     // Update is called once per frame
